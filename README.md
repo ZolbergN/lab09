@@ -18,7 +18,7 @@ $ open https://git-scm.com
 ```ShellSession
 $ export GITHUB_USERNAME=>ZolbergN #задаем значение переменной GITHUB_USERNAME
 $ export GITHUB_EMAIL=exculibur@rambler.ru #задаем значение переменной GITHUB_EMAIL
-$ alias edit=vi #cоздаем алиас редактором nano
+$ alias edit=vi #cоздаем алиас редактором vi
 ```
 
 ```ShellSession
