@@ -16,18 +16,18 @@ $ open https://git-scm.com
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=komissarovrodion21 #задаем значение переменной GITHUB_USERNAME
-$ export GITHUB_EMAIL=komissarovrodion1@gmail.com #задаем значение переменной GITHUB_EMAIL
-$ alias edit=nano #cоздаем алиас редактором nano
+$ export GITHUB_USERNAME=>ZolbergN #задаем значение переменной GITHUB_USERNAME
+$ export GITHUB_EMAIL=exculibur@rambler.ru #задаем значение переменной GITHUB_EMAIL
+$ alias edit=vi #cоздаем алиас редактором nano
 ```
 
 ```ShellSession
 $ mkdir lab3 && cd lab3 #cоздаем директорию lab3 и переходим в нее
 $ git init #cоздаем репозиторий git
-$ git config --global user.name ${GITHUB_USERNAME} #устанавливаем параметры user.name
-$ git config --global user.email ${GITHUB_EMAIL} #устанавливаем параметры user.email
+$ git config --global user.name ZolbergN #устанавливаем параметры user.name
+$ git config --global user.email exculibur@rambler.ru #устанавливаем параметры user.email
 $ git config -e --global #открываем файл
-$ git remote add origin https://github.com/${GITHUB_USERNAME}/lab3 #добавляем удаленный репозиторий по ссылке
+$ git remote add origin https://github.com/ZolbergN/lab3 #добавляем удаленный репозиторий по ссылке
 $ git pull origin master #копируем содержимое удаленного репозитория в локальный
 $ touch README.md #создаем файл
 $ git status #отображаем файлы в репозиториях(подтвержденные и неподтвержденные)
