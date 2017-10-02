@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/ZolbergN/lab5.svg?branch=master)](https://travis-ci.org/ZolbergN/lab5)
 ## Laboratory work III
 
 Данная лабораторная работа посвещена изучению систем контроля версий на примере **Git**.
