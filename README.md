@@ -1,5 +1,6 @@
 ## Laboratory work VI
 
+[![Build Status](https://travis-ci.org/ZolbergN/lab06.svg?branch=master)](https://travis-ci.org/ZolbergN/lab06)
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **Catch**
 
 ```ShellSession
