@@ -19,20 +19,4 @@ void print(const std::string& text, std::ostream& out = std::cout);
 \param[in] out оператор вывода из файла
 */
 
-
-
-B
-B
-B
-B
-B
-A
-A
-A
-A
-A
-A
-A
-A
-A
 void print(const std::string& text, std::ofstream& out);
